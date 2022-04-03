@@ -1,0 +1,173 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#title{
+    background-color: #ff4c61;
+}
+
+.container-fluid{
+    padding: 4% 20%;
+}
+
+
+h1{
+    font-size: 70px;
+    padding-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.navbar {
+    padding-bottom: 40px;
+    padding-right: 300px;
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+.nav-item {
+    padding: 0 5%;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+h3 {
+    padding: 5% 10% 0% 14%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.col-sm{
+    padding: 0% 0% 0% 0%;
+}
+    
+.download-button{
+    margin: 2%;
+}
+
+
+p {
+    font-size: medium;
+}
+
+.col-xs-4{
+padding: 10% 5% 5% 0%;
+text-align: center;
+}
+
+.fa-heart {
+    padding-left: 20%;
+}
+
+.fa-brands{
+    padding-right: 0px;
+}
+
+.icon{
+    color: #ff4c68;
+    padding: 0% 30%
+}
+
+.icon:hover{
+    color: black;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ff4c55;
+    color: white;
+}
+ 
+h2 {
+    font-size: 60px;
+}
+
+.dog {
+    width: 30%;
+    border-radius:50%;
+    margin: 3%;
+}
+
+#press{
+    background-color: #ff4c55;
+    text-align: center;
+    width: 200px%;
+    padding: 25px 0;
+}
+
+.logo-image{
+    width: 12%;
+    margin: 5% 2% 5%;
+}
+
+.carousel-item{
+    padding: 9% 15%;
+}
+
+.lady{
+    margin: 3%;
+    border-radius: 50%;
+}
+
+.Pebbles{
+    font-size:25px;
+}
+
+.Beverly{
+    font-size: 25px;
+}
+
+.card-text1{
+    font-size: 33px;
+}
+
+.card-text{
+    font-size: 25px;
+}
+
+.card-deck {
+    padding-top: 40px;
+}
+
+.text{
+    font-size: 65px;
+    text-align: center;
+    padding-top: 100px;
+}   
+
+.text1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.card-img-top2{
+    height:50%;
+}
+
+
+#cta {
+    background-color: #ff4c62;
+    text-align: center;
+}
+
+
+.fa-brands{
+    margin: 0 10px;
+}
+
+.fa-solid {
+    margin: 0 10px;
+}
+
+
+.btn2{
+margin-left: 90px;
+}
+
+.btn1{
+    margin-right: 100px;
+}
